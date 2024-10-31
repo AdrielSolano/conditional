@@ -1,4 +1,4 @@
-// if else
+/*// if else
 
 let isRaining = false;
 if (isRaining){
@@ -67,3 +67,4 @@ switch(true){
 }
 
 //ternary operator
+*/
